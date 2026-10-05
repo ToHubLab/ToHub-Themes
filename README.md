@@ -1,40 +1,32 @@
-# ToHub-Dark
+# ToHub-Themes
 
-A clean, minimalist dark theme for Firefox. Deep black backgrounds, rounded UI elements, and subtle gray accents.
+A collection of custom Firefox themes made by **ToHubLabs**. Each theme is a standalone WebExtension with its own `manifest.json` and icon set.
 
-## Features
+## Available Themes
 
-- Deep black backgrounds (`#0d0d0d`) for tab bar, nav bar, and new tab page
-- Dark gray accents (`#1c1c1c`) for address bar, active tab, and popups
-- Rounded, pill-shaped address bar and buttons
-- Subtle gray outline on the active tab
-- Slightly lighter bookmarks toolbar for better separation
-- Works on Windows, macOS, and Linux
-- No data collection, no tracking, no external requests
+| Theme | Description | Links |
+|---|---|---|
+| **Amt-Rot** | A dark theme inspired by German administrative red/grey design. | [Download](https://addons.mozilla.org/de/firefox/addon/amt-rot/) |
+| **ToHub-Dark** | A clean, minimalist dark theme with deep blacks. | [Download](https://addons.mozilla.org/de/firefox/addon/tohub-dark/) |
+
+*More themes coming soon.*
 
 ## Installation
 
 ### From addons.mozilla.org (Recommended)
-👉 [Install ToHub-Dark](https://addons.mozilla.org/de/firefox/addon/tohub-dark/)
+Click the download link in the table above.
 
 ### Manually
-1. Download the latest `.xpi` from the [Releases](../../releases) page.
+1. Download the `.xpi` from the [Releases](../../releases) page.
 2. Open Firefox → `about:addons` → gear icon → **Install Add-on From File…**
 3. Select the `.xpi` file.
 
-## Compatibility
-
-- Firefox 63 or newer
-- All major operating systems
-
 ## Development
 
-The theme is a pure WebExtension theme. The only file needed to modify is `manifest.json`.
-
-To test changes locally:
+Each theme folder contains its own `manifest.json` and icons. To test a theme locally:
 1. Open Firefox → `about:debugging#/runtime/this-firefox`
 2. Click **Load Temporary Add-on…**
-3. Select `manifest.json`
+3. Select the `manifest.json` inside the theme folder.
 
 ## License
 
