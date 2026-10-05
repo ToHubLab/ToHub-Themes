@@ -27,6 +27,10 @@ A clean, minimalist dark theme for Firefox. Deep black backgrounds, rounded UI e
 - Firefox 63 or newer
 - All major operating systems
 
+## Technical Notes
+
+> **Note:** The add-on ID `tohub-dark@tohub.rf.gd` is not an email address. It is a unique identifier required by Firefox.
+
 ## Development
 
 The theme is a pure WebExtension theme. The only file needed to modify is `manifest.json`.
