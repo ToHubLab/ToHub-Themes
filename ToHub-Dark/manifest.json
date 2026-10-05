@@ -1,0 +1,64 @@
+{
+  "manifest_version": 2,
+  "name": "ToHub-Dark",
+  "version": "1.0",
+  "description": "A clean, dark Firefox theme by ToHub.",
+  "author": "ToHubLabs",
+  "homepage_url": "https://tohub.rf.gd",
+
+  "developer": {
+    "name": "ToHubLabs",
+    "url": "https://tohub.rf.gd"
+  },
+
+  "icons": {
+    "48": "icon-48.png",
+    "64": "icon-64.png",
+    "96": "icon-96.png"
+  },
+
+  "theme": {
+    "colors": {
+      "frame": "#0d0d0d",
+      "frame_inactive": "#0d0d0d",
+      "tab_background_text": "#e0e0e0",
+      "tab_background_text_inactive": "#888888",
+      "tab_text": "#ffffff",
+      "toolbar": "#0d0d0d",
+      "toolbar_text": "#e0e0e0",
+      "toolbar_field": "#1c1c1c",
+      "toolbar_field_text": "#f0f0f0",
+      "toolbar_field_border": "#2a2a2a",
+      "toolbar_field_focus": "#1c1c1c",
+      "toolbar_field_text_focus": "#ffffff",
+      "toolbar_top_separator": "#0d0d0d",
+      "toolbar_bottom_separator": "#1e1e1e",
+      "bookmark_text": "#dcdcdc",
+      "button_background_hover": "#333333",
+      "button_background_active": "#444444",
+      "icons": "#e0e0e0",
+      "icons_attention": "#ffffff",
+      "tab_line": "#888888",
+      "popup": "#1c1c1c",
+      "popup_text": "#e0e0e0",
+      "popup_border": "#2a2a2a",
+      "popup_highlight": "#333333",
+      "popup_highlight_text": "#ffffff",
+      "sidebar": "#1e1e1e",
+      "sidebar_text": "#dcdcdc",
+      "sidebar_border": "#2a2a2a",
+      "sidebar_highlight": "#333333",
+      "sidebar_highlight_text": "#ffffff",
+      "ntp_background": "#0d0d0d",
+      "ntp_card_background": "#1c1c1c",
+      "ntp_text": "#e0e0e0"
+    }
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "tohub-dark@tohub.rf.gd",
+      "strict_min_version": "63.0"
+    }
+  }
+}
