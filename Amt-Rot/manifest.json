@@ -1,0 +1,65 @@
+{
+  "manifest_version": 2,
+  "name": "ToHub-Jobcenter",
+  "version": "1.0",
+  "description": "A Jobcenter-inspired dark Firefox theme with the official red and grey color scheme.",
+  "author": "ToHubLabs",
+  "homepage_url": "https://tohub.rf.gd",
+
+  "developer": {
+    "name": "ToHubLabs",
+    "url": "https://tohub.rf.gd"
+  },
+
+  "icons": {
+    "48": "icon-48.png",
+    "64": "icon-64.png",
+    "96": "icon-96.png"
+  },
+
+  "theme": {
+    "colors": {
+      "frame": "#1A1A1A",
+      "frame_inactive": "#121212",
+      "tab_background_text": "#A0A0A0",
+      "tab_background_text_inactive": "#707070",
+      "tab_text": "#FFFFFF",
+      "tab_selected": "#D21F26",
+      "tab_line": "#D21F26",
+      "toolbar": "#1A1A1A",
+      "toolbar_text": "#E0E0E0",
+      "toolbar_field": "#2B2B2B",
+      "toolbar_field_text": "#FFFFFF",
+      "toolbar_field_border": "#D21F26",
+      "toolbar_field_focus": "#3A3A3A",
+      "toolbar_field_text_focus": "#FFFFFF",
+      "toolbar_top_separator": "#1A1A1A",
+      "toolbar_bottom_separator": "#2B2B2B",
+      "bookmark_text": "#E0E0E0",
+      "button_background_hover": "#3A3A3A",
+      "button_background_active": "#D21F26",
+      "icons": "#FFFFFF",
+      "icons_attention": "#D21F26",
+      "popup": "#2B2B2B",
+      "popup_text": "#E0E0E0",
+      "popup_border": "#3A3A3A",
+      "popup_highlight": "#D21F26",
+      "popup_highlight_text": "#FFFFFF",
+      "sidebar": "#2B2B2B",
+      "sidebar_text": "#E0E0E0",
+      "sidebar_border": "#3A3A3A",
+      "sidebar_highlight": "#D21F26",
+      "sidebar_highlight_text": "#FFFFFF",
+      "ntp_background": "#121212",
+      "ntp_card_background": "#1A1A1A",
+      "ntp_text": "#E0E0E0"
+    }
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "jobcenter@tohub.rf.gd",
+      "strict_min_version": "63.0"
+    }
+  }
+}
