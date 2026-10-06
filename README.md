@@ -10,7 +10,7 @@ Each theme is a standalone WebExtension with its own `manifest.json` and icon se
 |---|---|---|
 | **Amt-Rot** | A dark theme inspired by German administrative red/grey design. | [Install on Firefox](https://addons.mozilla.org/de/firefox/addon/amt-rot/) |
 | **ToHub-Dark** | A clean, minimalist dark theme with deep blacks. | [Install on Firefox](https://addons.mozilla.org/de/firefox/addon/tohub-dark/) |
-| **Wasteland — The Hot Grain** | A post-apocalyptic theme with warm dust, rust, and hot grain tones. | [Install on Firefox](https://addons.mozilla.org/de/firefox/addon/wasteland-hot-grain/) |
+| **Wasteland — The Hot Grain** | A post-apocalyptic theme with warm dust, rust, and hot grain tones. | [Install on Firefox](https://addons.mozilla.org/de/firefox/addon/wasteland-the-hot-grain/) |
 
 *More themes coming soon.*
 
