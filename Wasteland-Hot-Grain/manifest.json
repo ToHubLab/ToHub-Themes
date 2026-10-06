@@ -1,0 +1,65 @@
+{
+  "manifest_version": 2,
+  "name": "Wasteland - The Hot Grain",
+  "version": "1.0",
+  "description": "A post-apocalyptic Firefox theme with warm dust, rust, and hot grain tones.",
+  "author": "ToHubLabs",
+  "homepage_url": "https://tohub.rf.gd",
+
+  "developer": {
+    "name": "ToHubLabs",
+    "url": "https://tohub.rf.gd"
+  },
+
+  "icons": {
+    "48": "icon-48.png",
+    "64": "icon-64.png",
+    "96": "icon-96.png"
+  },
+
+  "theme": {
+    "colors": {
+      "frame": "#2A221C",
+      "frame_inactive": "#1A1410",
+      "tab_background_text": "#A88E4D",
+      "tab_background_text_inactive": "#6A5040",
+      "tab_text": "#F5E0B3",
+      "tab_selected": "#8B4513",
+      "tab_line": "#FE992C",
+      "toolbar": "#1A1410",
+      "toolbar_text": "#F5E0B3",
+      "toolbar_field": "#2A221C",
+      "toolbar_field_text": "#F5E0B3",
+      "toolbar_field_border": "#8B4513",
+      "toolbar_field_focus": "#3A2E24",
+      "toolbar_field_text_focus": "#FFFFFF",
+      "toolbar_top_separator": "#1A1410",
+      "toolbar_bottom_separator": "#3A2E24",
+      "bookmark_text": "#D9C8A0",
+      "button_background_hover": "#3A2E24",
+      "button_background_active": "#8B4513",
+      "icons": "#D5560C",
+      "icons_attention": "#FE992C",
+      "popup": "#2A221C",
+      "popup_text": "#F5E0B3",
+      "popup_border": "#8B4513",
+      "popup_highlight": "#8B4513",
+      "popup_highlight_text": "#F5E0B3",
+      "sidebar": "#2A221C",
+      "sidebar_text": "#F5E0B3",
+      "sidebar_border": "#8B4513",
+      "sidebar_highlight": "#8B4513",
+      "sidebar_highlight_text": "#F5E0B3",
+      "ntp_background": "#1A1410",
+      "ntp_card_background": "#2A221C",
+      "ntp_text": "#F5E0B3"
+    }
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "wasteland-hot-grain@tohub.rf.gd",
+      "strict_min_version": "63.0"
+    }
+  }
+}
