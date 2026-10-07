@@ -35,3 +35,15 @@ Each theme folder contains its own `manifest.json` and icons. To test a theme lo
 3. Select the `manifest.json` inside the theme folder.
 
 ## Structure
+
+```text
+ToHub-Themes/
+├── <theme-name>/            # One folder per theme, self-contained
+│   ├── manifest.json        # WebExtension manifest
+│   ├── icon.png             # Theme icon
+│   └── tohub.rf.gd.url      # Link to the theme homepage
+├── LICENSE
+└── README.md
+```
+
+Each theme is self-contained — copy any folder, adjust the `manifest.json`, and you have a new theme ready to build.
